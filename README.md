@@ -4,6 +4,8 @@ AMD OpenCL Runtime for Navi Cards with Debian.
 
 This branch is used for `Debian 12`.
 
+ROCm Version: `5.2`
+
 ## Thanks
 
 Thanks to [AMD Yes! ROCm Team](https://salsa.debian.org/rocm-team)!
