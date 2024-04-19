@@ -20,6 +20,8 @@ Thanks to [AMD ROCm](https://github.com/ROCm) make AMD Radeon work on maching le
 
 Please uninstall `mesa-opencl-icd` due to conflicting AMD ROCm OpenCL.
 
+https://gitlab.freedesktop.org/mesa/mesa/-/issues/4189
+
 ```sh
 apt-get purge mesa-opencl-icd
 ```
